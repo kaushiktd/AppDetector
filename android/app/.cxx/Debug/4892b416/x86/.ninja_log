@@ -1,0 +1,16 @@
+# ninja log v5
+1	20	0	/Users/techdoodles/Desktop/AppDetector/android/app/.cxx/Debug/4892b416/x86/CMakeFiles/cmake.verify_globs	c51b42d7c337944
+10	3282	1768892995445821516	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/techdoodles/Desktop/AppDetector/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/EventEmitters.cpp.o	53c35dfbb62474d0
+13	3855	1768892996006087759	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/techdoodles/Desktop/AppDetector/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/safeareacontext-generated.cpp.o	63458c406d12d23e
+11	4536	1768892996711125535	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/techdoodles/Desktop/AppDetector/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/ShadowNodes.cpp.o	8559fdf38507c049
+9	4978	1768892997144138253	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/techdoodles/Desktop/AppDetector/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/ComponentDescriptors.cpp.o	ce9a5e992c00e798
+8	4386	1768892996549863459	CMakeFiles/appmodules.dir/OnLoad.cpp.o	31d3817bd4c15c6e
+8	4375	1768892996546163083	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/techdoodles/Desktop/AppDetector/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewState.cpp.o	5fc69868e91d1094
+13	2740	1768892994919120028	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/techdoodles/Desktop/AppDetector/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/States.cpp.o	f800f4922547532c
+10	4663	1768892996830613269	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/techdoodles/Desktop/AppDetector/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/Props.cpp.o	184cf7d94d3a2962
+8	5065	1768892997237790106	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/techdoodles/Desktop/AppDetector/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o	3637a23ed18586f
+5065	5169	1768892997336671585	/Users/techdoodles/Desktop/AppDetector/android/app/build/intermediates/cxx/Debug/4892b416/obj/x86/libreact_codegen_safeareacontext.so	5086bb484299322
+8	5426	1768892997589971306	CMakeFiles/appmodules.dir/Users/techdoodles/Desktop/AppDetector/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	59e00a9da352681f
+5426	5502	1768892997676770325	/Users/techdoodles/Desktop/AppDetector/android/app/build/intermediates/cxx/Debug/4892b416/obj/x86/libappmodules.so	7afe84fed77c09aa
+15	339	1768893161300142849	build.ninja	5fa30b0fe72d3621
+1	15	0	clean	ef215dab40dc11ee
